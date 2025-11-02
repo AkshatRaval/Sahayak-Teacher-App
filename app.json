@@ -1,7 +1,10 @@
 {
   "expo": {
-    "name": "sahayak-app",
-    "slug": "sahayak-app",
+    "name": "Sahayak",
+    "slug": "Sahayak",
+    "splash": {
+      "image": ""
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
